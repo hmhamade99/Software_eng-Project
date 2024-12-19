@@ -1,0 +1,6 @@
+data_loader:
+ file_path: "D:/AData science/USJ/S3/soft/project/data/iphone.csv"
+ file_type: "csv"
+transformation:
+ normalize: false
+ scaling_method: "minmax"
